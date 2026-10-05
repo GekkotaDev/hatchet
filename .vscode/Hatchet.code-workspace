@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+    ],
+    "settings": {
+        "editor.formatOnSave": true,
+
+        "xml.downloadExternalResources.enabled": true,
+    }
+}
